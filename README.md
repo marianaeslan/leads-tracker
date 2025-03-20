@@ -1,4 +1,24 @@
-# Getting Started
+# 📋 Leads Tracker  
+
+A **simple and efficient** Lead Tracking application built with **HTML, CSS, and JavaScript**. This project helps users **save, manage, and track leads** effectively, making it a useful tool for sales professionals, marketers, and entrepreneurs.  
+
+![Leads Tracker Preview](https://github.com/marianaeslan/leads-tracker/blob/main/tracker.png?raw=true)
+
+## 🚀 Features  
+✅ **Save new leads** quickly and efficiently.  
+✅ **Store leads in local storage** to retain data even after closing the browser.  
+✅ **Save current tab** one click it's all you need to do.  
+✅ **Delete leads** when they are no longer needed.  
+✅ **User-friendly and responsive design** for both desktop and mobile use.  
+✅ **Copy links** easily for quick access.  
+
+## 🛠️ Technologies Used  
+The project was built using:  
+- **HTML** - Defines the application structure.  
+- **CSS** - Provides styling and responsive layout.  
+- **JavaScript** - Manages lead-saving logic and local storage functionality.  
+
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install
